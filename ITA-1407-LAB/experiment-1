@@ -1,0 +1,12 @@
+# remove files
+touch sample.txt
+ls
+sample.txt
+ls
+
+# users command
+users
+
+# tree command
+tree
+
